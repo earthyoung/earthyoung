@@ -26,7 +26,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lullulu)](https://solved.ac/lullulu/)
 
 ### 📫 How to reach me
-[![ReadMe Badge](http://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=readme&logoColor=white&link=https://lullulu.tistory.com/)](https://lullulu.tistory.com/)
+[![ReadMe Badge](http://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=readme&logoColor=white&link=https://lullulu.tistory.com/)](https://www.notion.so/soyoung526/KSY-s-notion-dac39c7c3a3349d583d5cff9b3982346?pvs=4)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lullulu.tistory.com/)](https://lullulu.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:studydatawithme@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:family1251@naver.com)](mailto:family1251@naver.com)
