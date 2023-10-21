@@ -22,7 +22,7 @@
 ![로고명](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![로고명](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
-![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=earthyoung&show_icons=true&theme=radical)
+![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=earthyoung&show_icons=true&theme=radical&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lullulu)](https://solved.ac/lullulu/)
 
 ### 📫 How to reach me
