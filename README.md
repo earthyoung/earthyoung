@@ -8,7 +8,10 @@
 ![로고명](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
 
+### 👯 I have experience on
+<!--
 ### 👯 I’m looking to collaborate on (I have experience on)
+-->
 
 ![로고명](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![로고명](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
